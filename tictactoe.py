@@ -109,5 +109,5 @@ async def tictactoe(interaction: discord.Interaction, opponent: discord.Member):
         view=view
     )
 
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("")
 
